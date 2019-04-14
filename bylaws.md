@@ -56,7 +56,6 @@ The name of this organization shall be Belegarth Medieval Combat Society. It wil
   - 4.5.3.1.2.1 An opportunity for the member to be heard, orally or in writing, not less than five (5) days before the effective date of the expulsion, suspension or termination by a person or persons authorized to decide that the proposed expulsion, termination or suspension not take place. During this time, the person must be granted access to the discussion thread for that motion, either directly or by a BMCS Officer proxy, so that they may present their defense, and answer questions.
   - 4.5.3.1.2.2 A person knowingly refusing to acknowledge a notice of pending action will be considered to have declined to speak.
   - 4.5.3.1.3 A 3/4 vote in favor of the action, with a 2/3 quorum, is necessary for such a vote to pass.
-  -
 
 ## Article 5: Dues
 
@@ -67,24 +66,15 @@ The name of this organization shall be Belegarth Medieval Combat Society. It wil
 
 - 6.1. The Officers of the BMCS shall be:
 
-### 6.1.1. President
+- ### 6.1.1. President
 
--
   -
     - 6.1.1.1. The President will work with the WC to ensure that all BMCS rules are observed at all BMCS sponsored and funded events.
     - 6.1.1.2. The President will select Marshals for BMCS sponsored/funded events if the hosting group has not already done so or in case of problems.
       - 6.1.1.2.1 The President has the right to veto Marshals at BMCS sponsored and funded events.
     - 6.1.1.3. The President shall oversee the progress of all Officers and Directors
     - 6.1.1.4. The President shall issue any web site changes to the Webmaster should any need to be made.
-    -
-6.1.1.5. The President will ensure that Belegarth&#39;s nonprofit corporation status is maintained
-#
-[ANNOTATION:
-
-BY &#39;Eric Taylor&#39;
-ON &#39;2018-11-27T09:15:00&#39;ET
-NOTE: &#39;I would add this language to remind the president that these returns/reports are due each year.&#39;]
-and shall cause the Treasurer to file all tax returns and reports required to maintain BMCS&#39;s tax exempt status (for example Form 990 tax returns and annual reports with the Secretary of State).
+    - 6.1.1.5. The President will ensure that Belegarth'ss nonprofit corporation status is maintained
     - 6.1.1.6. The President will perform all other duties usually associated with this office.
     - 6.1.1.7 The President may designate awardees for the Presidential Orders of Recognition
     - 6.1.1.8 As with all other Officers, the President is a point of contact to report issues of a delicate nature which requiring reporting via Article 13 of the Belegarth Bylaws
@@ -236,23 +226,10 @@ and shall cause the Treasurer to file all tax returns and reports required to ma
 -
 11.2. In case of dissolution of the corporation, the assets will pay off all indebtedness and all creditors.
 #
-[ANNOTATION:
-
-BY &#39;Eric Taylor&#39;
-ON &#39;2018-11-27T11:03:00&#39;ET
-NOTE: &#39;This is the recommended general IRS language. I would also consider having the preferred option to be that the remaining funds go to BCMS&#39;
-NOTE: &#39; as I put in.&#39;]
 Upon the dissolution of any Realm, any funds remaining after paying or making provision for the payment of all liabilities of the realm shall be distributed to BMCS, or to one or more regularly organized and qualified nonprofit organizations with similar exempt purposes as the Organization that shall at that time qualify as an exempt organization(s) under Section 501(c)(3) of the Internal Revenue Code, as amended from time to time, in such manner as the Board of Directors shall determine.  Any such assets not so disposed of shall be disposed of by a Court of Competent Jurisdiction of the county in which the principal office of the realm is then located, exclusively for such purposes or to such organization or organizations, as said Court shall determine, which are organized and operated exclusively for such purposes.
 - 11.3. The properties and assets of BMCS are irrevocably dedicated to charitable purposes. No part of the net earnings, properties, or assets of this corporation, on dissolution or otherwise, shall inure to the benefit of any private person or individual, or any member, Director or officer of the BMCS.
   -
 oo11.3.1. Whenever a member, director or officer has a financial or personal interest in any matter coming before s
-#
-[ANNOTATION:
-
-BY &#39;Eric Taylor&#39;
-ON &#39;2018-11-27T11:18:00&#39;ET
-NOTE: &#39;I included a draft of the Conflict of Interest Policy for you as a separate document. I strongly recommend using the one I sent you, as it tracks the IRS recommended language on conflicts policies.&#39;]
-uch member, director or officer, must comply with the BMCS Conflict of Interest Policy, which is hereby incorporated in full by reference.
 - 11.4. Unless otherwise specifically determined by the Officers of BMCS or otherwise required by law, formal contracts and other corporate instruments and documents shall be executed, signed or endorsed by the President, Vice-President, and by the Treasurer.
   - 11.4.1. All checks and drafts drawn on banks or other depositories of funds to the credit of the corporation, or on special accounts of BMCS, shall be signed by such person or persons as the Board shall authorize to do so.
 - 11.5. The Officers may accept on behalf of BMCS any contribution, gift, bequest, or devise for the general purposes of or for any special purpose of BMCS not inconsistent with the charitable limitations permitted by applicable law. Upon receipt, the officer will immediately issue a receipt to the donor and submit copies for Officers and War Council records. A report of contributions received must be disclosed quarterly to War Council.
@@ -274,13 +251,6 @@ uch member, director or officer, must comply with the BMCS Conflict of Interest 
 - 12.1. Any issue relevant to these by-laws may be reported by any member to the War Council through a War Council representative.
 - 12.2 The addition of new speaking realms need only a simple majority vote.
 -
-
-#
-[ANNOTATION:
-
-BY &#39;Eric Taylor&#39;
-ON &#39;2018-11-27T11:52:00&#39;ET
-NOTE: &#39;This language just makes it clearer. But note to pass these amendments you will need a 2/3 vote. &#39;]
 12.3. Any amendment to these Bylaws, the Articles of Incorporation, or the Rule Set (&quot;Book of War&quot;)of BMCS shall require a 2/3 majority vote of the War Council.
 - 12.4. Adding or removing voting realms from the WC requires a ⅔ majority vote of the War Council.
 - 12.5. The election of corporate officers and votes of No-Confidence for corporate officers are outlined in Article 7 above.
