@@ -751,7 +751,7 @@ Conflict of Interest Policy, and these Bylaws.
                 necessary, the party applying the punishment should be
                 ready to provide clarification or further evidence at
                 the WC's request. Based on this discussion, the WC
-                may, by a Â¾ vote, issue warnings and/or semi- or
+                may, by a 3/4 vote, issue warnings and/or semi- or
                 permanent bans from future activities sponsored and
                 funded by BMCS.
                   - 13.4.1.3.2.1 Alternative to the issuance of a semi-
@@ -831,7 +831,7 @@ Conflict of Interest Policy, and these Bylaws.
       - 15.3.2. Speaking realms are allowed two (2) representatives to
         the private WC Forum. They may voice their realm's opinions, but
         may not make motions, or vote, on any business.
-  - 15.4. *Becoming a Voting Realm.*
+  - 15.4. **Becoming a Voting Realm.**
       - 15.4.1. Meet all the criteria from section 15.2 and 15.3 with
         the following exceptions or additions:
           - 15.4.1.1. The realm in question is sponsored by a currently
