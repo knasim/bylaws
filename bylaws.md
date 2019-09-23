@@ -1021,3 +1021,37 @@ Conflict of Interest Policy, and these Bylaws.
     distribution knowing such distribution to have been made in
     violation of this section in proportion to the amounts received by
     them respectively.
+
+## **Article 17: National Events**
+
+  - 17.1 National events may be created by the War Council via a 2/3 majority vote.
+    - 17.1.1 Initial funding shall be identified and allocated by the War Council as part of the creation of the event.
+    - 17.1.2 An initial budget shall be developed by the Board of Directors and submitted to the War Council as part of the creation of the event.
+      - 17.1.2.1 If the event is to be held in the current budget year, a budget amendment shall be included as part of the creation of the event.
+      - 17.1.2.2 If the event is to be held in a future budget year, the initial budget shall be included in the appropriate year's budget proposal.
+    - 17.1.3 The creation of the event shall include the name of the event, the geographical region it is to be held within, the time of year it is to be held, and the duration of the event.
+  - 17.2 National events shall have an event coordinator responsible for management of the event.
+    - 17.2.1 The event coordinator shall be selected by the Board of Directors.
+      - 17.2.1.1 The selected individual must accept the position prior to confirmation.
+      - 17.2.1.2 If the selected individual is a member of the Board of Directors at the time of selection, they are automatically confirmed to the position.
+      - 17.2.1.3 If the selected individual is not a member of the Board of Directors at the time of selection, their selection shall be confirmed by the War Council in the first available voting period.
+      - 17.2.1.4 Removal of a confirmed event coordinator shall follow the process outlined in Article 7.
+    - 17.2.2 The event coordinator shall submit a report to the War Council within one month of the conclusion of the event.
+      - 17.2.2.1 The report shall include the final attendance.
+      - 17.2.2.2 The report shall include the pre-registration count (if applicable).
+      - 17.2.2.3 The report shall include a profit/loss statement.
+      - 17.2.2.4 The report shall include an estimation of total cost to run the event the next year.
+      - 17.2.2.5 The report shall include a listing of significant issues to be resolved in the next year. 
+  - 17.3 National events may be modified by the War Council via a 2/3 majority vote.
+    - 17.3.1 An effective date shall be included in the motion for modification.
+      - 17.3.1.1 If the modification is a reduction in duration, the effective date shall be no earlier than the completion of the current voting period.
+      - 17.3.1.2 If the modification is an increase in duration or change in event name, the effective date shall be no earlier than one calendar year from the date the motion is submitted unless the earlier effective date is confirmed by the event coordinator.
+      - 17.3.1.3 If the modification is a change to the geographical region or time of year for the event, the effective date shall be no earlier than one calendar year from the date the motion is submitted.
+  - 17.4 National events may be dissolved by the War Council via a 2/3 majority vote.
+    - 17.4.1 An effective date shall be included in the motion for dissolution.
+      - 17.4.1.1 If the event is dissolved for reasons other than insolvency of the event fund, the effective date shall be no earlier than one calendar year from the date the motion is submitted.
+      - 17.4.1.2 If the event is dissolved for reasons of insolvency of the event fund, the effective date shall be the completion of the current voting period.
+    - 17.4.1 All remaining event funds shall be permanently transferred to other fund(s).
+      - 17.4.1.1 Approval for permanent transfer of funds shall be included in the dissolution of the event.
+      - 17.4.1.2 The destination(s) of the transferred funds shall be identified in the dissolution motion.
+      - 17.4.1.3 Prior records of the dedicated fund for the dissolved event shall be retained."
