@@ -138,7 +138,7 @@ Conflict of Interest Policy, and these Bylaws.
                     to Dagorhir, Amtgard, Hearthlight, and the Society
                     for Creation Anachronisms, can be brought forward
                     for a subsequent Denial or Revocation of Membership
-                    in BMCS
+                    in BMCS.
       - 4.5.3 **Procedures**
           - 4.5.3.1 The revocation, expulsion, suspension or pre-emptive
             denial of membership shall adhere to the following
