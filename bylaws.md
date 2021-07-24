@@ -133,6 +133,12 @@ Conflict of Interest Policy, and these Bylaws.
                     participants, through word or deed, are in violation
                     of section 13.2.6, and should be reprimanded via the
                     guidelines in section 13.3.
+              - 4.5.2.1.5 A person that has been nationally bannjed in
+                    another LARP Organization, including but not limited
+                    to Dagorhir, Amtgard, Hearthlight, and the Society
+                    for Creation Anachronisms, can be brought forward
+                    for a subsequent Denial or Revocation of Membership
+                    in BMCS
       - 4.5.3 **Procedures**
           - 4.5.3.1 The revocation, expulsion, suspension or pre-emptive
             denial of membership shall adhere to the following
